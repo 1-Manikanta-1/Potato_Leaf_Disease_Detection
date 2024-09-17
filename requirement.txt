@@ -1,0 +1,9 @@
+Flask
+pandas 
+tensorflow
+keras
+matplotlib
+streamlit_lottie
+streamlit
+numpy
+seaborn
