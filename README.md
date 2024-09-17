@@ -1,1 +1,2 @@
-# Potato_leaf_disease_detection
+
+#https://www.kaggle.com/datasets/muhammadardiputra/potato-leaf-disease-dataset
